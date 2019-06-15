@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+}
+
+li{
+    text-align: left;
+}
+
+p { 
+    font-size: 12px;　　　　　          /* 設定文字大小 */
+    line-height: 24px;　　　          　/* 設定文字行距 */
+    letter-spacing: 3px;　            　/* 設定文字間距 */
+    background-image: url(dot.gif); /* 設定文字背景圖  */
+} 

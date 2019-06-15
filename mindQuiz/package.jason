@@ -1,0 +1,5 @@
+"eslinconfig":{
+    "globals":{
+    "window": true
+}
+}
